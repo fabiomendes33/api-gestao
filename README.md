@@ -4,6 +4,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-success)]()
+https://fabiomendes33.github.io/api-gestao/
 
 API RESTful completa com autenticação **JWT**, CRUD de usuários e itens, ideal para sistemas de gestão, ERPs leves ou backends de painéis administrativos.
 
